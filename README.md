@@ -5,6 +5,19 @@ This project is an end-to-end Power BI dashboard built using the Superstore data
 
 ---
 
+## 📊 Dashboard Preview
+
+### Overview
+![Overview](page1-overview.png)
+
+### Customer Insights
+![Customer](page2-customer-insights.png)
+
+### Product Insights
+![Product](page3-product-insights.png)
+
+---
+
 ## 📌 Dashboard Pages
 
 ### 1️⃣ Overview
